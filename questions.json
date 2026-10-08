@@ -1,0 +1,49 @@
+{
+  "heading": "G8_Literary Devices Part I(Writing)",
+  "topics": [
+    {
+      "heading": "Literary Devices Part I(Writing)",
+      "questions": [
+        {
+          "questionNo": 1,
+          "type": "short",
+          "question": "Create a sentence with the word “Paraphernalia”",
+          "text_area": "",
+          "answer": ["The archaeologist carefully unpacked her paraphernalia—brushes, chisels, and measuring tools—before approaching the ancient ruins."]
+        },
+        {
+          "questionNo": 2,
+          "type": "short",
+          "question": "Create a sentence with the word “Corral”",
+          "text_area": "",
+          "answer": ["The ranchers worked swiftly to corral the wild horses before the storm rolled in from the west."]
+        },
+        {
+          "questionNo": 3,
+          "type": "short",
+          "question": "Create a sentence with the word “Profusely”",
+          "text_area": "",
+          "answer": ["He apologised profusely, his voice trembling with regret as he tried to undo the damage his words had caused."]
+        },
+        {
+          "questionNo": 4,
+          "type": "short",
+          "question": "Create a sentence with the word “Splintered”",
+          "text_area": "",
+          "answer": ["The old door splintered under the weight of the blow, sending jagged shards across the dusty floor."]
+        },
+     
+        {
+          "questionNo": 6,
+          "type": "long",
+          "question": "<b>Write about an experience where you encountered something unlucky, or when you believed something to be a result of bad luck. </b><br>Try to use any of the following literary devices in your writing:<ul><li>Metaphor</li><li>Simile</li><li>Personification</li><li>Idiom</li></ul>",
+
+          "text_area": "",
+          "answer": [""]
+        }
+
+
+      ]
+    }
+  ]
+}
